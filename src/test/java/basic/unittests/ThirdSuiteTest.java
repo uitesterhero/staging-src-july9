@@ -8,7 +8,7 @@ public class ThirdSuiteTest {
     @Disabled
     @Test
     public void skippedTest1() {
-        System.out.println("thirdTest1 successful!");
+        System.out.println("thirdTest1 skipped!");
     }
 
     @Test
